@@ -1,0 +1,36 @@
+_repo: More-Portmanteau-Plays_37967
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walker, Stuart
+    birthdate: 1888
+    deathdate: 1941
+    gutenberg_agent_id: '39155'
+    url: http://www.gutenberg.org/2009/agents/39155
+    wikipedia: http://en.wikipedia.org/wiki/Stuart_Walker_%28filmmaker%29
+  editor:
+    agent_name: Bierstadt, Edward Hale
+    birthdate: 1891
+    gutenberg_agent_id: '39156'
+    url: http://www.gutenberg.org/2009/agents/39156
+description: A lady of the weeping willow tree -- The very naked boy -- Jonathan makes
+  a wish.
+gutenberg_issued: '2011-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37967'
+  lccn: '19015613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 20th century'
+- !lcc 'PS'
+tableOfContents: Introduction -- A lady of the weeping willow tree -- The very naked
+  boy -- Jonathan makes a wish.
+title: More Portmanteau Plays
+url: http://www.gutenberg.org/ebooks/37967
